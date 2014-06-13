@@ -9,8 +9,9 @@ https://processing.org/download/
 Get FadeCandy software here:
 https://github.com/scanlime/fadecandy/archive/master.zip
 
-download balls example - fadecandy lines are commented out // more comments for notes
-code as below: prototype of fadecandy processing sketch
+Basic_Sketch shows what needs to be in your processing sketch to connect to FadeCandy.
+
+Bouncing_FadeCandy example has the Fadecandy lines commented out.
 
 This session was based on the Adafruit FadeCandy tutorial:
 https://learn.adafruit.com/led-art-with-fadecandy
